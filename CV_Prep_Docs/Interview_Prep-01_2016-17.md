@@ -33,6 +33,8 @@
 	- Necessity for Change to fix the incident
 	- Follow up with the Reporter
 	- Daily Incident Meetings
+
+------------------
 	
 * ***Linux Server Configurations & Troubleshooting***
 	- User Management
