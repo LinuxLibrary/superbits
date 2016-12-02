@@ -16,7 +16,7 @@
 - [ ] Agile/SCRUM
 
 
-Change Management:
+- Change Management:
 	- Installation and up-gradation of LogicMonitor collectors
 		- Installing new collectors and adding hosts to collectors
 		- Upgrading a collector to a latest version
@@ -26,7 +26,7 @@ Change Management:
 		- 
 	- 
 	
-Incident Management:
+- Incident Management:
 	- Internal and External incidents
 	- Incidents resolved within Operations team
 		- Through application or machine restarts
@@ -37,40 +37,40 @@ Incident Management:
 	- Follow up with the Reporter
 	- Daily Incident Meetings
 	
-Linux Server Configurations & Troubleshooting:
-- User Management
-	- 
-- FileSystem and Volume Management
-	- 
-- Package Management
-	- 
-- File Sharing and File Access Management
-	- 
-- Service, Process and Disk Management
-	- 
+- Linux Server Configurations & Troubleshooting:
+	- User Management
+		- 
+	- FileSystem and Volume Management
+		- 
+	- Package Management
+		- 
+	- File Sharing and File Access Management
+		- 
+	- Service, Process and Disk Management
+		- 
 
-Monitoring:
-- LogicMonitor
-	- 
-- Nagios
-	- 
-- CatchPoint
-	- 
-- SumoLogic
-	- 
+- Monitoring:
+	- LogicMonitor
+		- 
+	- Nagios
+		- 
+	- CatchPoint
+		- 
+	- SumoLogic
+		- 
 
-Version Control:
-- Git
-	- 
+- Version Control:
+	- Git
+		- 
 
-Continuous Integration:
-- Jenkins
-	- 
+- Continuous Integration:
+	- Jenkins
+		- 
 	
-Programming:
-- Shell
-	- 
-- Python
-	- 
-- SQL
-	- 
+- Programming:
+	- Shell
+		- 
+	- Python
+		- 
+	- SQL
+		- 
