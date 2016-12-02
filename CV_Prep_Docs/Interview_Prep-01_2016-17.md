@@ -24,7 +24,14 @@
 		- Verify the collector is collecting data from the hosts with out any issue.
 		- Rollback to the previous version and reach LM Support as needed if there is some issue with the new version
 	- Catalog DB Array maintenance
-		- 
+		- Stop all the Catalog applications
+		- Stop IIS
+		- Stop the sync agents to disable the dataflow
+		- Run DB Check to find any errors with in the array
+		- Run DB Fix the errors found during DB check
+		- Start sync agents
+		- Start IIS
+		- Start all catalog applications
 	- 
 	
 * ***Incident Management***
