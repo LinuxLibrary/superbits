@@ -1,6 +1,7 @@
 - [x] Change Management
 - [x] Incident Management
-- [ ] Nagios, Logic Monitor, CatchPoint
+- [ ] Monitoring
+	- [ ] Nagios, Logic Monitor, CatchPoint
 - [ ] SumoLogic
 - [ ] Ubuntu, SUSE Linux, RHEL
 - [ ] Bash
