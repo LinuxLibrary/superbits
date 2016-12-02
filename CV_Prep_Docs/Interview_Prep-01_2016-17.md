@@ -17,7 +17,7 @@
 
 
 
-* Change Management:
+* ***Change Management***
 	- Installation and up-gradation of LogicMonitor collectors
 		- Installing new collectors and adding hosts to collectors
 		- Upgrading a collector to a latest version
