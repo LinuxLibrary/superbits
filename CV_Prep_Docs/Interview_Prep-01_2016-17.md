@@ -19,6 +19,7 @@
 
 * ***Change Management***
 	- Installation and up-gradation of LogicMonitor collectors
+	- Legacy DB Maintenance
 
 ------------------
 	
