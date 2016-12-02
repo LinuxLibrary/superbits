@@ -1,5 +1,5 @@
-- [ ] Change Management
-- [ ] Incident Management
+- [x] Change Management
+- [x] Incident Management
 - [ ] Nagios, Logic Monitor, CatchPoint
 - [ ] SumoLogic
 - [ ] Ubuntu, SUSE Linux, RHEL
