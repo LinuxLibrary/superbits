@@ -1,15 +1,19 @@
-Docker
-Puppet
-Jenkins
-AWS
-Ansible
-Ubuntu, SUSE Linux, RHEL
-Git, JIRA
-Bash, Python
-Nagios, New Relic
-Agile/SCRUM
-Incident Management
-Change Management
+- [ ] Change Management
+- [ ] Incident Management
+- [ ] Nagios, Logic Monitor, CatchPoint
+- [ ] SumoLogic
+- [ ] Ubuntu, SUSE Linux, RHEL
+- [ ] Bash
+- [ ] Python
+- [ ] Git
+- [ ] Puppet
+- [ ] Ansible
+- [ ] Amazon Web Services (AWS)
+- [ ] Jenkins
+- [ ] Docker
+- [ ] Kubernets
+- [ ] JIRA
+- [ ] Agile/SCRUM
 
 
 Change Management:
