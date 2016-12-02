@@ -19,10 +19,6 @@
 
 * ***Change Management***
 	- Installation and up-gradation of LogicMonitor collectors
-		- Installing new collectors and adding hosts to collectors
-		- Upgrading a collector to a latest version
-		- Verify the collector is collecting data from the hosts with out any issue.
-		- Rollback to the previous version and reach LM Support as needed if there is some issue with the new version
 	- Legecy DB Array Maintenance
 	- 
 	
