@@ -27,7 +27,7 @@
 		- 
 	- 
 	
-* Incident Management:
+* ***Incident Management***
 	- Internal and External incidents
 	- Incidents resolved within Operations team
 		- Through application or machine restarts
@@ -38,7 +38,7 @@
 	- Follow up with the Reporter
 	- Daily Incident Meetings
 	
-* Linux Server Configurations & Troubleshooting:
+* ***Linux Server Configurations & Troubleshooting***
 	- User Management
 		- 
 	- FileSystem and Volume Management
@@ -50,7 +50,7 @@
 	- Service, Process and Disk Management
 		- 
 
-* Monitoring:
+* ***Monitoring***
 	- LogicMonitor
 		- 
 	- Nagios
@@ -60,15 +60,15 @@
 	- SumoLogic
 		- 
 
-* Version Control:
+* ***Version Control***
 	- Git
 		- 
 
-* Continuous Integration:
+* ***Continuous Integration***
 	- Jenkins
 		- 
 	
-* Programming:
+* ***Programming***
 	- Shell
 		- 
 	- Python
