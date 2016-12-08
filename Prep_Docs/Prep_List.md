@@ -3,7 +3,7 @@
 - [ ] Monitoring
 	- [ ] Nagios
 	- [ ] Logic Monitor
-	- [ ] CatchPoint
+	- [x] CatchPoint
 - [ ] Logging (SumoLogic)
 - [ ] Linux OS (RHEL, Ubuntu, SLES)
 - [ ] Programming
