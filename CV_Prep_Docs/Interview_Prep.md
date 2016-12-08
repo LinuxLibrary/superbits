@@ -5,22 +5,28 @@
 	- [ ] Logic Monitor
 	- [ ] CatchPoint
 - [ ] Logging (SumoLogic)
-- [ ] Linux OS (Ubuntu, SUSE Linux, RHEL)
+- [ ] Linux OS (RHEL, Ubuntu, SLES)
 - [ ] Programming
 	- [ ] Bash
 	- [ ] Python
 	- [ ] SQL
-- [ ] Git
+- [ ] Version Control
+	- [ ] Git
 - [ ] Config Management
 	- [ ] Puppet
 	- [ ] Ansible
-- [ ] Amazon Web Services (AWS)
-- [ ] Jenkins
+- [ ] Cloud
+	- [ ] Amazon Web Services (AWS)
+		- [ ] EC2
+		- [ ] VPC
+		- [ ] S3
+- [ ] Continuous Integration (CI)
+	- [ ] Jenkins
 - [ ] Orchestration
 	- [ ] Docker
 	- [ ] Kubernets
-- [ ] JIRA
-- [ ] Agile/SCRUM
+- [ ] Software Development Life Cycle (SDLC)
+	- Agile
 
 ------------------
 
@@ -45,78 +51,58 @@
 
 * ***Monitoring***
 	- LogicMonitor
-		- 
 	- Nagios
-		- 
 	- CatchPoint
-		- 
 
 ------------------
 
 * ***Logging***
 	- SumoLogic
-		- 
 
 ------------------
 	
 * ***Linux OS (RHEL, Ubuntu, SLES)***
 	- User Management
-		- 
 	- FileSystem and Volume Management
-		- 
 	- Package Management
-		- 
 	- File Sharing and File Access Management
-		- 
 	- Service, Process and Disk Management
-		- 
 	
 ------------------
 	
 * ***Programming***
 	- Shell
-		- 
 	- Python
-		- 
 	- SQL
-		- 
 
 ------------------
 	
 * ***Version Control***
 	- Git
-		- 
 
 ------------------
 
 * ***Configuration Management***
 	- Puppet
-		-
 	- Ansible
-		-
 	
 ------------------
 	
 * ***Cloud***
 	- Amazon Web Services (AWS)
-		-
 
 ------------------
 
 * ***Continuous Integration***
 	- Jenkins
-		- 
 
 ------------------
 
 * ***Orchestration***
 	- Docker
-		- 
 	- Kubernets
-		-
 
 ------------------
 
 * ***Software Development Life Cycle***
 	- Agile
-		- 
