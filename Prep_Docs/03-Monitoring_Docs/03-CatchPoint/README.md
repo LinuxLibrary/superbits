@@ -70,4 +70,17 @@ ICMP Ping and Enable Data Push Api are also options for streaming tests.
 Catchpoint Streaming tests playback for a fixed length of 15 seconds with a test timeout of 30 seconds.
 ```
 
+* ***DNS Test Type***
+```
+The DNS test allows you to monitor the performance and availability of your DNS nameservers. Catchpoint allows
+you to directly monitor each nameserver, or you can monitor any of the authoritative nameservers of a domain by
+emulating a recursive DNS resolver that does not cache records. 
+```
 
+* ***FTP Test Type***
+```
+An FTP test monitors the performance and availability of files on an FTP server. The FTP test can retrieve inf-
+-ormation about a file or test and whether the file can be uploaded or downloaded on the FTP server. Creating a
+test involves defining whether Catchpoint should use Authentication, the type of request Catchpoint should make
+and test and the test should behave when there is a failure.
+```
