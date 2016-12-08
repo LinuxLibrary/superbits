@@ -26,7 +26,7 @@
 	- [ ] Docker
 	- [ ] Kubernets
 - [ ] Software Development Life Cycle (SDLC)
-	- Agile
+	- [ ] Agile
 
 ------------------
 
