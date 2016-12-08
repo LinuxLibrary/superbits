@@ -49,3 +49,13 @@ as well as custom Catchpoint actions, assertions, and macros. API test transacti
 parse their XML or JSON responses before completing the next step in the test. There is no HTML to render, no
 Javascript to execute, and no CSS.
 ```
+
+* ***WebSocket Test Type***
+```
+Often used in chats, financial tickers, and gaming applications, WebSockets allow for simultaneous real-time
+communication between client and server through a single persistent connection. With the WebSocket Test you
+can monitor WebSockets by establishing a connection, sending data, asserting the server response, and creat-
+-ing custom metrics based on the response.
+```
+
+
