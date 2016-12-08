@@ -26,4 +26,26 @@ override the default values set up at the Product and Folder level for targeting
 HTTP requests, Insight collection and alerts.
 ```
 
+* ***Transaction Test Type***
+```
+Catchpoint allows you to use the Selenium language to record transactions then copy and paste the result into
+a Test Monitor to run on a periodic basis. Selenium is primarily for automating web applications and testing.
+Catchpoint lets you use the power of Selenium to create customized Test Monitors with minimal effort.
+```
 
+* ***HTML Code Test Type***
+```
+An HTML Code test examines HTML code without first requesting it from the server. This allows you to input your
+HTML directly in Catchpoint so that you can test how it performs in a test environment. Creating a test involv-
+-es defining what you want Catchpoint to test and how you want the test to behave. Additionally, you can overr-
+-ide the default values set up at the Product and Folder level for targeting, scheduling, Insight collection 
+and alerts.
+```
+
+* ***API Test Type***
+```
+Both API monitoring tests and Web Transaction tests use the Selenium scripting language and multi-step tests,
+as well as custom Catchpoint actions, assertions, and macros. API test transactions, however, access URLs then
+parse their XML or JSON responses before completing the next step in the test. There is no HTML to render, no
+Javascript to execute, and no CSS.
+```
