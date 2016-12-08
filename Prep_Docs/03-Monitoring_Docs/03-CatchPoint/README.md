@@ -58,4 +58,16 @@ can monitor WebSockets by establishing a connection, sending data, asserting the
 -ing custom metrics based on the response.
 ```
 
+* ***Streaming Test Type***
+```
+The Streaming test uses an open source video player that is embedded into the Chrome browser. This is used
+by the test agent to control the video and play the stream while simultaneously capturing the performance
+metrics. The Streaming monitor can capture HTTP headers, Meta data and a screenshot on failures or at all times.  
+
+Streaming is only available to the OnPrem network type. Additionally, Enable Ping, Debug Primary Host, Enable
+ICMP Ping and Enable Data Push Api are also options for streaming tests. 
+
+Catchpoint Streaming tests playback for a fixed length of 15 seconds with a test timeout of 30 seconds.
+```
+
 
