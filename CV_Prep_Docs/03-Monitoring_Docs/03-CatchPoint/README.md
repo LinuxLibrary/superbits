@@ -19,7 +19,11 @@
 
 * ***Web Test Type***
 ```
-The Catchpoint Web test offers crucial insight to the performance of your webpage. The test examines a single webpage, where you are able to customize how that webpage is investigated by choosing the type of monitor, including additional elements to the HTTP request header, and defining advanced settings. Additionally, you can override the default values set up at the Product and Folder level for targeting, scheduling, authentication, HTTP requests, Insight collection and alerts.
+The Catchpoint Web test offers crucial insight to the performance of your webpage. The test examines a single webpage
+where you are able to customize how that webpage is investigated by choosing the type of monitor, including addition-
+-al elements to the HTTP request header, and defining advanced settings. Additionally, you can override the default 
+values set up at the Product and Folder level for targeting, scheduling, authentication, HTTP requests, Insight coll-
+-ection and alerts.
 ```
 
 
