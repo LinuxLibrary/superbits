@@ -42,8 +42,24 @@
 	- Daily Incident Meetings
 
 ------------------
+
+* ***Monitoring***
+	- LogicMonitor
+		- 
+	- Nagios
+		- 
+	- CatchPoint
+		- 
+
+------------------
+
+* ***Logging***
+	- SumoLogic
+		- 
+
+------------------
 	
-* ***Linux Server Configurations & Troubleshooting***
+* ***Linux OS (RHEL, Ubuntu, SLES)***
 	- User Management
 		- 
 	- FileSystem and Volume Management
@@ -54,24 +70,8 @@
 		- 
 	- Service, Process and Disk Management
 		- 
-
-* ***Monitoring***
-	- LogicMonitor
-		- 
-	- Nagios
-		- 
-	- CatchPoint
-		- 
-	- SumoLogic
-		- 
-
-* ***Version Control***
-	- Git
-		- 
-
-* ***Continuous Integration***
-	- Jenkins
-		- 
+	
+------------------
 	
 * ***Programming***
 	- Shell
@@ -79,4 +79,44 @@
 	- Python
 		- 
 	- SQL
+		- 
+
+------------------
+	
+* ***Version Control***
+	- Git
+		- 
+
+------------------
+
+* ***Configuration Management***
+	- Puppet
+		-
+	- Ansible
+		-
+	
+------------------
+	
+* ***Cloud***
+	- Amazon Web Services (AWS)
+		-
+
+------------------
+
+* ***Continuous Integration***
+	- Jenkins
+		- 
+
+------------------
+
+* ***Orchestration***
+	- Docker
+		- 
+	- Kubernets
+		-
+
+------------------
+
+* ***Software Development Life Cycle***
+	- Agile
 		- 
