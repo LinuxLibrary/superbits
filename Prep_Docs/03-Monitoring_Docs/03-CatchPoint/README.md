@@ -84,3 +84,32 @@ An FTP test monitors the performance and availability of files on an FTP server.
 test involves defining whether Catchpoint should use Authentication, the type of request Catchpoint should make
 and test and the test should behave when there is a failure.
 ```
+
+* ***TCP Test Type***
+```
+The TCP test monitors the performance and availability of a connection to a given host and port using the TCP
+protocol. Creating a test involves defining the host and port you want Catchpoint to test, and the request data
+you want Catchpoint to send.
+```
+
+* ***SMTP Test Type***
+```
+The SMTP test monitors mail servers with the ability to send test emails. 
+```
+
+* ***Ping Test Type***
+```
+The Ping test provides metrics related to round trip time (RTT) and packet loss to a specified server. The ping
+sends five packets of roughly 64 bytes each.
+```
+
+* ***Traceroute Test Type***
+```
+The Traceroute test runs in standard or Paris mode to analyze traffic routing. The test sends three packets per
+hop; each packet totals roughly 64 bytes in size.
+```
+
+* ***SSH Test Type***
+```
+The SSH test allows issuing Shell commands to a specified server.
+```
